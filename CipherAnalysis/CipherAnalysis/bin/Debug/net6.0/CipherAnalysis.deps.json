@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CipherAnalysis/1.0.0": {
+        "dependencies": {
+          "MatplotlibCS": "1.0.63"
+        },
+        "runtime": {
+          "CipherAnalysis.dll": {}
+        }
+      },
+      "MatplotlibCS/1.0.63": {
+        "dependencies": {
+          "NLog": "4.5.6",
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/MatplotlibCS.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2.21924"
+          }
+        }
+      },
+      "NLog/4.5.6": {
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.5.6.7874"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CipherAnalysis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MatplotlibCS/1.0.63": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-q3SwUxR0BpZsaUzl7ZhxO8TLPXuJAfunnUO87arJS9wxQASMJ5PdfabKQcxEM5t89nvLiUkXyh6+R9DhYCqH/Q==",
+      "path": "matplotlibcs/1.0.63",
+      "hashPath": "matplotlibcs.1.0.63.nupkg.sha512"
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "NLog/4.5.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FZIdeH92NTu6ePm+QbLT9pyd5vY9B+GYX8S2bh6ZxJC+XSTZDhZ6EHWxDzyBIEjtIb+nSBJfIgdMuQNQEYMqbQ==",
+      "path": "nlog/4.5.6",
+      "hashPath": "nlog.4.5.6.nupkg.sha512"
+    }
+  }
+}
