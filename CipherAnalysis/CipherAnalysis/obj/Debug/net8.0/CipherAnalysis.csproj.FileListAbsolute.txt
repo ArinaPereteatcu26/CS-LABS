@@ -26,3 +26,4 @@ E:\CS-LABS\CipherAnalysis\CipherAnalysis\obj\Debug\net8.0\refint\CipherAnalysis.
 E:\CS-LABS\CipherAnalysis\CipherAnalysis\obj\Debug\net8.0\CipherAnalysis.pdb
 E:\CS-LABS\CipherAnalysis\CipherAnalysis\obj\Debug\net8.0\CipherAnalysis.genruntimeconfig.cache
 E:\CS-LABS\CipherAnalysis\CipherAnalysis\obj\Debug\net8.0\ref\CipherAnalysis.dll
+E:\CS-LABS\CipherAnalysis\CipherAnalysis\obj\Debug\net8.0\CipherAnalysis.sourcelink.json
