@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CipherAnalysis"
   ],
+  "SelectedNode": "\\CipherAnalysis\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
