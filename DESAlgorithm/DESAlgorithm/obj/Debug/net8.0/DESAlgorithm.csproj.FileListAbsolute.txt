@@ -1,0 +1,15 @@
+E:\CS-LABS\DESAlgorithm\DESAlgorithm\bin\Debug\net8.0\DESAlgorithm.exe
+E:\CS-LABS\DESAlgorithm\DESAlgorithm\bin\Debug\net8.0\DESAlgorithm.deps.json
+E:\CS-LABS\DESAlgorithm\DESAlgorithm\bin\Debug\net8.0\DESAlgorithm.runtimeconfig.json
+E:\CS-LABS\DESAlgorithm\DESAlgorithm\bin\Debug\net8.0\DESAlgorithm.dll
+E:\CS-LABS\DESAlgorithm\DESAlgorithm\bin\Debug\net8.0\DESAlgorithm.pdb
+E:\CS-LABS\DESAlgorithm\DESAlgorithm\obj\Debug\net8.0\DESAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS-LABS\DESAlgorithm\DESAlgorithm\obj\Debug\net8.0\DESAlgorithm.AssemblyInfoInputs.cache
+E:\CS-LABS\DESAlgorithm\DESAlgorithm\obj\Debug\net8.0\DESAlgorithm.AssemblyInfo.cs
+E:\CS-LABS\DESAlgorithm\DESAlgorithm\obj\Debug\net8.0\DESAlgorithm.csproj.CoreCompileInputs.cache
+E:\CS-LABS\DESAlgorithm\DESAlgorithm\obj\Debug\net8.0\DESAlgorithm.sourcelink.json
+E:\CS-LABS\DESAlgorithm\DESAlgorithm\obj\Debug\net8.0\DESAlgorithm.dll
+E:\CS-LABS\DESAlgorithm\DESAlgorithm\obj\Debug\net8.0\refint\DESAlgorithm.dll
+E:\CS-LABS\DESAlgorithm\DESAlgorithm\obj\Debug\net8.0\DESAlgorithm.pdb
+E:\CS-LABS\DESAlgorithm\DESAlgorithm\obj\Debug\net8.0\DESAlgorithm.genruntimeconfig.cache
+E:\CS-LABS\DESAlgorithm\DESAlgorithm\obj\Debug\net8.0\ref\DESAlgorithm.dll
